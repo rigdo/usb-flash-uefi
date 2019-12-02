@@ -1,2 +1,1 @@
-# usb-flash-uefi
-Bootable usb flash (UEFI) 
+moved to https://github.com/rigdo/rigdo
